@@ -66,30 +66,28 @@
 
 <!ENTITY publishCmd.label "Publicar">
 <!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publicar como...">
-<!ENTITY publishas.accesskey "i">
+<!ENTITY publishAsCmd.accesskey "i">
 <!ENTITY exportToTextCmd.label "Exportar para Texto...">
-<!ENTITY fileexporttotext.accesskey "T">
+<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Guardar e mudar a codificação de caracteres">
-<!ENTITY filesaveandchangeencoding.accesskey "G">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "G">
 <!ENTITY previewCmd.label "Navegar na Página">
-<!ENTITY filepreview.accesskey "á">
+<!ENTITY previewCmd.accesskey "á">
 <!ENTITY sendPageCmd.label "Enviar Página...">
-<!ENTITY sendPage.accesskey "P">
+<!ENTITY sendPageCmd.accesskey "P">
 <!ENTITY printSetupCmd.label "Configurar Página...">
-<!ENTITY fileprintsetup.accesskey "u">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Pré-visualização da impressão">
-<!ENTITY fileprintpreview.accesskey "v">
-<!ENTITY printCmd.label "Imprimir...">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printButtonCmd.label "Imprimir...">
-<!ENTITY fileprint.accesskey "p">
-<!ENTITY fileprint.keybinding "p">
+<!ENTITY printCmd.label "Imprimir...">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.key "p">
 <!ENTITY closeCmd.label "Fechar">
-<!ENTITY fileclose.accesskey "c">
-<!ENTITY fileclose.keybinding "w">
-<!ENTITY exitCmd.label "Sair">
-<!ENTITY fileexit.accesskey "S">
-<!ENTITY fileexit.keybinding "q">
+<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.key "w">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Editar">
